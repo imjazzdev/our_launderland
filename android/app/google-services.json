@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1075780627220",
+    "project_id": "launderland-8a09b",
+    "storage_bucket": "launderland-8a09b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075780627220:android:3a07d6d757385d66067001",
+        "android_client_info": {
+          "package_name": "com.example.our_launderland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACoOdKchnyWBv9LCnJEw-IXSzx8vhGiOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
