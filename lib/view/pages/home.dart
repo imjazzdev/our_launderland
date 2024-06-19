@@ -2,11 +2,11 @@ import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/cuci%20biasa/pilih_layanan_laundry.dart';
-import 'package:nakama_laundry/view/pages/cuci%20satuan/pilih_satuan_laundry.dart';
-import 'package:nakama_laundry/view/pages/keranjang/keranjang.dart';
-import 'package:nakama_laundry/view/pages/utils/varglobal.dart';
-import 'package:nakama_laundry/view/widget/carousel_banner.dart';
+import 'package:our_launderland/view/pages/cuci%20biasa/pilih_layanan_laundry.dart';
+import 'package:our_launderland/view/pages/cuci%20satuan/pilih_satuan_laundry.dart';
+import 'package:our_launderland/view/pages/keranjang/keranjang.dart';
+import 'package:our_launderland/view/pages/utils/varglobal.dart';
+import 'package:our_launderland/view/widget/carousel_banner.dart';
 
 import '../../utils/color_pallete.dart';
 import 'harga/harga.dart';

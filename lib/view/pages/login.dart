@@ -1,11 +1,11 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/utils/color_pallete.dart';
-import 'package:nakama_laundry/view/pages/admin/dashboard.dart';
-import 'package:nakama_laundry/view/pages/lupa_password.dart';
-import 'package:nakama_laundry/view/pages/register.dart';
-import 'package:nakama_laundry/view/widget/main_navigator.dart';
+import 'package:our_launderland/utils/color_pallete.dart';
+import 'package:our_launderland/view/pages/admin/dashboard.dart';
+import 'package:our_launderland/view/pages/lupa_password.dart';
+import 'package:our_launderland/view/pages/register.dart';
+import 'package:our_launderland/view/widget/main_navigator.dart';
 
 class Login extends StatefulWidget {
   const Login({super.key});

@@ -1,11 +1,11 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/home.dart';
-import 'package:nakama_laundry/view/pages/utils/varglobal.dart';
+import 'package:our_launderland/view/pages/home.dart';
+import 'package:our_launderland/view/pages/utils/varglobal.dart';
 
-import 'package:nakama_laundry/view/widget/container_default.dart';
-import 'package:nakama_laundry/view/widget/main_navigator.dart';
-import 'package:nakama_laundry/view/widget/oke_botom_nav.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/main_navigator.dart';
+import 'package:our_launderland/view/widget/oke_botom_nav.dart';
 
 class DetailItemSatuanPremiun extends StatefulWidget {
   const DetailItemSatuanPremiun({super.key});

@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:nakama_laundry/utils/color_pallete.dart';
+import 'package:our_launderland/utils/color_pallete.dart';
 
 class DataPengguna extends StatefulWidget {
   const DataPengguna({super.key});

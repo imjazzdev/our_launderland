@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/login.dart';
-import 'package:nakama_laundry/view/pages/utils/varglobal.dart';
-import 'package:nakama_laundry/view/widget/oke_botom_nav.dart';
+import 'package:our_launderland/view/pages/login.dart';
+import 'package:our_launderland/view/pages/utils/varglobal.dart';
+import 'package:our_launderland/view/widget/oke_botom_nav.dart';
 
 class Profile extends StatelessWidget {
   const Profile({super.key});

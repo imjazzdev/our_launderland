@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
-import 'package:nakama_laundry/utils/color_pallete.dart';
+import 'package:our_launderland/utils/color_pallete.dart';
 
 import '../pages/home.dart';
 import '../pages/profile.dart';
@@ -46,8 +46,8 @@ class _MainNavigatorState extends State<MainNavigator> {
               activeColor: ColorPallete.colorprimary,
               tabBackgroundColor: Colors.white.withOpacity(0.9),
               tabBorderRadius: 18,
-               onTabChange: (i) {
-               setState(() {
+              onTabChange: (i) {
+                setState(() {
                   _selectedIndex = i;
                 });
               },

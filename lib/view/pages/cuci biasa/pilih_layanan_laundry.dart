@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/cuci%20biasa/kiloan_bulanan.dart';
-import 'package:nakama_laundry/view/pages/cuci%20biasa/kiloan_daily.dart';
-import 'package:nakama_laundry/view/pages/cuci%20biasa/kiloan_express.dart';
-import 'package:nakama_laundry/view/pages/cuci%20biasa/pesanan_anda.dart';
-import 'package:nakama_laundry/view/widget/container_default.dart';
-import 'package:nakama_laundry/view/widget/oke_botom_nav.dart';
+import 'package:our_launderland/view/pages/cuci%20biasa/kiloan_bulanan.dart';
+import 'package:our_launderland/view/pages/cuci%20biasa/kiloan_daily.dart';
+import 'package:our_launderland/view/pages/cuci%20biasa/kiloan_express.dart';
+import 'package:our_launderland/view/pages/cuci%20biasa/pesanan_anda.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/oke_botom_nav.dart';
 
 class PilihLayananLaundry extends StatefulWidget {
   const PilihLayananLaundry({super.key});

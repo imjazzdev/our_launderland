@@ -1,8 +1,8 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
 
-import 'package:nakama_laundry/view/widget/container_default.dart';
-import 'package:nakama_laundry/view/widget/oke_botom_nav.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/oke_botom_nav.dart';
 
 import '../../widget/main_navigator.dart';
 import '../home.dart';

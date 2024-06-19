@@ -3,8 +3,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:nakama_laundry/view/pages/admin/pesanan_detail.dart';
-import 'package:nakama_laundry/view/pages/utils/varglobal.dart';
+import 'package:our_launderland/view/pages/admin/pesanan_detail.dart';
+import 'package:our_launderland/view/pages/utils/varglobal.dart';
 
 import '../../../utils/color_pallete.dart';
 import '../../widget/container_default.dart';
@@ -248,7 +248,7 @@ class Progress extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-     Stream<QuerySnapshot<Object?>> searchData() {
+    Stream<QuerySnapshot<Object?>> searchData() {
       if (VarGlobal.SEARCH_PESANAN_ADMIN.text == '') {
         return FirebaseFirestore.instance
             .collection('order')
@@ -271,6 +271,7 @@ class Progress extends StatelessWidget {
             .snapshots();
       }
     }
+
     return Container(
         child: StreamBuilder<QuerySnapshot>(
             stream: searchData(),
@@ -408,7 +409,7 @@ class Done extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-     Stream<QuerySnapshot<Object?>> searchData() {
+    Stream<QuerySnapshot<Object?>> searchData() {
       if (VarGlobal.SEARCH_PESANAN_ADMIN.text == '') {
         return FirebaseFirestore.instance
             .collection('order')
@@ -431,6 +432,7 @@ class Done extends StatelessWidget {
             .snapshots();
       }
     }
+
     return Container(
         child: StreamBuilder<QuerySnapshot>(
             stream: searchData(),

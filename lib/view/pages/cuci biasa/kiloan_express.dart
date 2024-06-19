@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:nakama_laundry/view/pages/cuci%20biasa/pesanan_anda.dart';
+import 'package:our_launderland/view/pages/cuci%20biasa/pesanan_anda.dart';
 
 import '../../widget/container_default.dart';
 import '../../widget/oke_botom_nav.dart';

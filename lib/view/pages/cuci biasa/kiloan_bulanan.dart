@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:nakama_laundry/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
 
 import 'pesanan_anda.dart';
 

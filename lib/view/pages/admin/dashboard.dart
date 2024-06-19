@@ -1,9 +1,9 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/admin/data_pengguna.dart';
-import 'package:nakama_laundry/view/pages/admin/data_transaksi.dart';
-import 'package:nakama_laundry/view/pages/admin/pesanan.dart';
-import 'package:nakama_laundry/view/pages/login.dart';
+import 'package:our_launderland/view/pages/admin/data_pengguna.dart';
+import 'package:our_launderland/view/pages/admin/data_transaksi.dart';
+import 'package:our_launderland/view/pages/admin/pesanan.dart';
+import 'package:our_launderland/view/pages/login.dart';
 
 import '../../../utils/color_pallete.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/widget/main_navigator.dart';
+import 'package:our_launderland/view/widget/main_navigator.dart';
 
 import '../../../utils/color_pallete.dart';
 

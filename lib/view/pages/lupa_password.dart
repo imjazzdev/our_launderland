@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/login.dart';
+import 'package:our_launderland/view/pages/login.dart';
 
 class LupaPassword extends StatelessWidget {
   const LupaPassword({super.key});

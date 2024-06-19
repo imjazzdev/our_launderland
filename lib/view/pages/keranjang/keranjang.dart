@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/keranjang/keranjang_detail.dart';
-import 'package:nakama_laundry/view/pages/utils/varglobal.dart';
-import 'package:nakama_laundry/view/widget/oke_botom_nav.dart';
+import 'package:our_launderland/view/pages/keranjang/keranjang_detail.dart';
+import 'package:our_launderland/view/pages/utils/varglobal.dart';
+import 'package:our_launderland/view/widget/oke_botom_nav.dart';
 
 import '../../widget/container_default.dart';
 

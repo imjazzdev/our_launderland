@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/utils/color_pallete.dart';
-import 'package:nakama_laundry/view/widget/container_default.dart';
-import 'package:nakama_laundry/view/widget/oke_botom_nav.dart';
+import 'package:our_launderland/utils/color_pallete.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/oke_botom_nav.dart';
 
 import 'cuci biasa/pilih_metode_pembayaran.dart';
 

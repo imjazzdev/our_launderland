@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/utils/color_pallete.dart';
-import 'package:nakama_laundry/view/widget/main_navigator.dart';
+import 'package:our_launderland/utils/color_pallete.dart';
+import 'package:our_launderland/view/widget/main_navigator.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../utils/varglobal.dart';

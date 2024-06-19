@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/cuci%20satuan/detail_item_satuan_premium.dart';
-import 'package:nakama_laundry/view/pages/cuci%20satuan/detail_item_satuan_pakaian_berat.dart';
-import 'package:nakama_laundry/view/pages/cuci%20satuan/detail_item_satuan_household.dart';
+import 'package:our_launderland/view/pages/cuci%20satuan/detail_item_satuan_premium.dart';
+import 'package:our_launderland/view/pages/cuci%20satuan/detail_item_satuan_pakaian_berat.dart';
+import 'package:our_launderland/view/pages/cuci%20satuan/detail_item_satuan_household.dart';
 
-import 'package:nakama_laundry/view/pages/cuci%20satuan/layanan_tambahan.dart';
-import 'package:nakama_laundry/view/widget/container_default.dart';
+import 'package:our_launderland/view/pages/cuci%20satuan/layanan_tambahan.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
 
 import '../cuci biasa/bayar_nanti.dart';
 

@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/admin/pesanan_detail.dart';
+import 'package:our_launderland/view/pages/admin/pesanan_detail.dart';
 
 import '../../widget/container_default.dart';
 

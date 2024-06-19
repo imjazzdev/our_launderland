@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:nakama_laundry/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
 
 import 'bayar_nanti.dart';
 import 'bayar_sekarang.dart';

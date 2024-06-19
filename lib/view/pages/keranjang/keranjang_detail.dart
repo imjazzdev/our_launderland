@@ -2,9 +2,9 @@ import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:nakama_laundry/utils/color_pallete.dart';
-import 'package:nakama_laundry/view/pages/utils/varglobal.dart';
-import 'package:nakama_laundry/view/widget/container_default.dart';
+import 'package:our_launderland/utils/color_pallete.dart';
+import 'package:our_launderland/view/pages/utils/varglobal.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
 import 'package:shimmer/shimmer.dart';
 
 import '../../widget/oke_botom_nav.dart';

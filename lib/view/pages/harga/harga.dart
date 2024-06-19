@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:nakama_laundry/view/pages/harga/harga_kiloan.dart';
-import 'package:nakama_laundry/view/pages/harga/harga_satuan.dart';
+import 'package:our_launderland/view/pages/harga/harga_kiloan.dart';
+import 'package:our_launderland/view/pages/harga/harga_satuan.dart';
 
-import 'package:nakama_laundry/view/widget/container_default.dart';
+import 'package:our_launderland/view/widget/container_default.dart';
 
 import '../cuci biasa/bayar_nanti.dart';
 import '../cuci biasa/bayar_sekarang.dart';
